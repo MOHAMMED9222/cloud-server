@@ -34,12 +34,11 @@ Deploy a simple Node.js server to EC2, using Elastic Beanstalk
 
 ## Elastic Beanstalk Link (GUI)
 
-- http://cloudserver-env.eba-gmncxme2.us-west-2.elasticbeanstalk.com/status
+ec2-54-212-42-68.us-west-2.compute.amazonaws.com
 
 ## CLI Link
 
-- http://cloud-server-env.eba-meb5mmmu.us-west-2.elasticbeanstalk.com/status
-
+https://us-west-2.console.aws.amazon.com/ec2/home?region=us-west-2#Home:
 ## Processes:
 
 #### On your terminal:
